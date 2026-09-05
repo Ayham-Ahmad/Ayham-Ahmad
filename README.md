@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Ayham-Ahmad.png" alt="Ayham Shahada" width="130">
+  <img src="https://raw.githubusercontent.com/Ayham-Ahmad/Ayham-Ahmad/main/img/Final.png" alt="Ayham Shahada" width="130">
 </p>
 
 <h3 align="center">👋 Hello, I'm Ayham Shahada</h3>

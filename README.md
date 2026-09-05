@@ -76,15 +76,6 @@ Currently building a **Smart Financial Advisory system** that leverages agent-ba
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayham-Ahmad&show_icons=true&count_private=true&hide_title=true&hide_border=true&title_color=A08A81&icon_color=A08A81&text_color=272B36&bg_color=D9C9C2" alt="Ayham's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayham-Ahmad&layout=compact&hide_border=true&title_color=A08A81&text_color=272B36&bg_color=D9C9C2" alt="Top languages">
-</p>
-
----
-
 ## 🎓 Education
 
 **Bachelor of Computer Science (Honours), Artificial Intelligence**
